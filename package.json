@@ -1,0 +1,13 @@
+{
+  "name": "ova-devin-sandbox",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Synthetic-only sandbox repository for agent trials.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
